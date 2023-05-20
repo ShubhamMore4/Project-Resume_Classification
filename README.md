@@ -15,4 +15,5 @@
 <img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/NLP%20pipeline.JPG" alt="Cleaning Steps" width="800" height="500">
 
 <h2>All Models Train/Test Accuracy :</h2>
-<img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/Cleaning%20Steps.png" alt="Cleaning Steps" width="800" height="400">
+<img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/Model%20Accuracy.png" alt="Cleaning Steps" width="800" height="400">
+
