@@ -33,3 +33,8 @@
     <img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/Model%20Accuracy.png" height= "300" width="700" />
 </div>
 <p>&#x2022; Random Forest classifier model selected for deployment .</p>
+
+### `Deployment:`
+<div align="center">
+    <img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/Cleaning%20Steps.png" height= "300" width="700" />
+</div>
