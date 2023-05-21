@@ -36,5 +36,6 @@
 
 ### `Deployment:`
 <div align="center">
-    <img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/Cleaning%20Steps.png" height= "300" width="700" />
+    <img src="https://github.com/ShubhamMore4/Project-Resume_Classification/blob/master/deployment.JPG" height= "300" width="700" />
 </div>
+<p>&#x2022; Depolyment using Streamlit</p>
